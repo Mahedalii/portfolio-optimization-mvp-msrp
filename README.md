@@ -76,7 +76,7 @@ This method ensures that all dependencies are installed with the correct version
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/portfolio-optimization.git
+git clone https://github.com/Mahedalii/portfolio-optimization-mvp-msrp.git
 cd portfolio-optimization-mvp-msrp
 
 # Step 2: Create the Conda environment
